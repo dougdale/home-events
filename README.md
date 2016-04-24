@@ -10,4 +10,8 @@ This is also a learning opportunity for my to learn things like node.js and Java
 ## Requirements
 You'll need: 
 * [node.js](https://nodejs.org/en/). I am using version 4.4.3.
-* [node-openzwave-shared](https://github.com/OpenZWave/node-openzwave-shared) which brings it's own requirement for open-zwave (see the [node-openzwave-shared README)[https://github.com/OpenZWave/node-openzwave-shared/blob/master/README.md]. I'm using 1.1.9 (which seems to have disappeared from the list of releases, but I'm sure 1.2.0 will work just fine).
+* [node-openzwave-shared](https://github.com/OpenZWave/node-openzwave-shared) which brings it's own requirement for open-zwave (see the [node-openzwave-shared README](https://github.com/OpenZWave/node-openzwave-shared/blob/master/README.md) ). I'm using 1.1.9 (which seems to have disappeared from the list of releases, but I'm sure 1.2.0 will work just fine).
+
+## More Info
+See the [Wiki](https://github.com/dougdale/homeevents/wiki) for more information.
+
